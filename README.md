@@ -1,26 +1,65 @@
 Bonnes pratiques et choses à savoir
 ===================================
 
+Bash
+---------------------------------
+* [Texte] [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
+
 CSS
 ---------------------------------
+* [Texte] [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
+* [Texte] [Gradient Borders in CSS](https://css-tricks.com/gradient-borders-in-css/)
 * [Texte] [CSS Position Sticky - How It Really Works!](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46)
 * [Texte] [Becoming a CSS Grid Ninja!](https://medium.com/@elad/becoming-a-css-grid-ninja-f4c6db018cc1)
 * [Texte] [Animated CSS burger components](https://march08.github.io/animated-burgers/)
 * [Texte] [Table Design Patterns On The Web](https://www.smashingmagazine.com/2019/01/table-design-patterns-web/)
 * [Texte+Vidéo] [Tableaux responsive](https://www.grafikart.fr/tutoriels/table-responsive-1015)
 * [Texte] [Flexbox Case Studies](https://flexbox.ninja/)
+* [Texte] [Architecture CSS avec ITCSS & InuitCSS](https://medium.com/@KBizien/architecture-css-avec-itcss-inuitcss-6b4271cb1042)
+* [Texte] [An Introduction and Guide to the CSS Object Model (CSSOM)](https://css-tricks.com/an-introduction-and-guide-to-the-css-object-model-cssom/)
+* [Texte] [Animating CSS Grid](https://css-irl.info/animating-css-grid/)
+* [Texte] [CSS Grid for Designers](https://open.nytimes.com/css-grid-for-designers-f74a883b98f5)
+* [Texte] [When And How To Use CSS Multi-Column Layout](https://www.smashingmagazine.com/2019/01/css-multiple-column-layout-multicol/)
+* [Texte] [Approaches for a CSS Masonry Layout](https://css-tricks.com/piecing-together-approaches-for-a-css-masonry-layout/)
+* [Texte] [Why we need CSS subgrid](https://dev.to/kenbellows/why-we-need-css-subgrid-53mh)
+* [Texte] [Destyle.css](https://nicolas-cusan.github.io/destyle.css/)
+* [Texte] [CSS Grid: Train Ticket](https://codepen.io/oliviale/full/MZZYyO)
 
-Digital
+Divers
+---------------------------------
+* [Texte] [A coding project a day for 20 days](https://medium.freecodecamp.org/a-coding-project-a-day-for-20-days-5cd4c9383f84)
+* [Texte] [SVG Filters 101](https://tympanus.net/codrops/2019/01/15/svg-filters-101/)
+* [Texte] [Writing code for your future self](https://dev.to/sunnysingh/writing-code-for-your-future-self-3da2)
+
+GraphQL
+---------------------------------
+* [Texte] [A Beginner’s Guide to GraphQL](https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj)
+* [Texte] [GraphQL bootcamp](https://tylermcginnis.com/free-graphql-bootcamp/)
+
+Hanbook, etc...
 ---------------------------------
 * [Texte] [The digital handbook for agency people](https://fakeit.digital/)
+* [Texte] [Guide des bonnes pratiques de l'informatique](https://www.ssi.gouv.fr/guide/guide-des-bonnes-pratiques-de-linformatique/)
+* [Texte] [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 
 Javascript (et NodeJS)
 ---------------------------------
+* [Texte] [The easiest way to learn & practice modern JavaScript fundamentals](https://learnjavascript.online/)
 * [Texte] [JavaScript for impatient programmers](http://exploringjs.com/impatient-js/)
 * [Texte] [Node.js • Apprendre par la pratique](https://oncletom.io/node.js/)
 * [Texte] [Data cleaning, manipulation, and wrangling in JavaScript](http://learnjsdata.com/index.html)
+* [Texte] [Delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs)
+* [Texte] [Creating and filling Arrays of arbitrary lengths in JavaScript](http://2ality.com/2018/12/creating-arrays.html)
 * [Texte] [JavaScript Tip](https://twitter.com/wesbos/status/1090624545990590465)
 * [Texte] [JavaScript iterator patterns](https://loige.co/javascript-iterator-patterns/)
+* [Texte] [Custom Cursor Effects](https://tympanus.net/codrops/2019/01/31/custom-cursor-effects/)
+
+
+Python (et Data Science) 
+---------------------------------
+* [Texte] [Tutoriel Python](https://docs.python.org/fr/3.5/tutorial/)
+* [Texte] [List of Data Science Cheatsheets to rule the world](https://github.com/FavioVazquez/ds-cheatsheets)
+* [Texte] [Guide: la bibliothèque Numpy](https://moncoachdata.com/blog/guide-numpy/)
 
 RGPD
 ---------------------------------
@@ -37,3 +76,8 @@ SASS
 ---------------------------------
 * [Texte] [CSS Architecture for Multiple Websites With SASS](https://medium.com/@elad/css-architecture-for-multiple-websites-with-sass-7e923fc53f7a)
 * [Texte] [The Best Way to RTL Websites with Sass!](https://medium.com/@elad/the-best-way-to-rtl-your-website-with-sass-105e34a4298a)
+* [Texte] [Stepping away from Sass](https://cathydutton.co.uk/posts/why-i-stopped-using-sass/)
+
+VueJS
+---------------------------------
+* [Texte] [30 Days of Vue](https://github.com/fullstackio/30-days-of-vue)
