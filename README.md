@@ -1,15 +1,21 @@
 Bonnes pratiques et choses à savoir
 ===================================
 
-Bash
+Bash (& Linux)
 ---------------------------------
 * [Texte] [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
+* [Texte] [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide#the-practical-linux-hardening-guide)
 
 CSS
 ---------------------------------
 * [Texte] [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
+* [Texte] [A Guide To CSS Support In Browsers](https://www.smashingmagazine.com/2019/02/css-browser-support/)
 * [Texte] [Gradient Borders in CSS](https://css-tricks.com/gradient-borders-in-css/)
 * [Texte] [CSS Position Sticky - How It Really Works!](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46)
+
+A look at CSS Resets in 2018 https://bitsofco.de/a-look-at-css-resets-in-2018/
+An Introduction to CSS Shapes https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/
+
 * [Texte] [Becoming a CSS Grid Ninja!](https://medium.com/@elad/becoming-a-css-grid-ninja-f4c6db018cc1)
 * [Texte] [Animated CSS burger components](https://march08.github.io/animated-burgers/)
 * [Texte] [Table Design Patterns On The Web](https://www.smashingmagazine.com/2019/01/table-design-patterns-web/)
@@ -31,6 +37,14 @@ Divers
 * [Texte] [SVG Filters 101](https://tympanus.net/codrops/2019/01/15/svg-filters-101/)
 * [Texte] [Writing code for your future self](https://dev.to/sunnysingh/writing-code-for-your-future-self-3da2)
 
+Git
+---------------------------------
+* [Texte] [git - petit guide](http://rogerdudler.github.io/git-guide/index.fr.html)
+* [Texte] [Les bonnes pratiques](http://adopteungit.fr/methodologie/2016/08/16/les-bonnes-pratiques.html)
+* [Vidéo] [Présentation Git par Christophe Porteneuve au meetup GitHub](https://youtu.be/HHE19hKsrW4)
+* [Vidéo] [Git ProTips : Faire plus vite et mieux grâce à cette séléction d'astuces](https://youtu.be/ypR-rEBCoag)
+* [Texte] [Comment j'utilise Git ? Astuces et bonnes pratiques !](https://guillaumebriday.fr/comment-jutilise-git-mes-astuces-et-bonnes-pratiques)
+
 GraphQL
 ---------------------------------
 * [Texte] [A Beginner’s Guide to GraphQL](https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj)
@@ -41,6 +55,7 @@ Hanbook, etc...
 * [Texte] [The digital handbook for agency people](https://fakeit.digital/)
 * [Texte] [Guide des bonnes pratiques de l'informatique](https://www.ssi.gouv.fr/guide/guide-des-bonnes-pratiques-de-linformatique/)
 * [Texte] [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
+* [Texte] [A selection of printable, one-page cheatsheets, generated from Markdown using Pandoc & LaTeX](https://github.com/kickstartcoding/cheatsheets)
 
 Javascript (et NodeJS)
 ---------------------------------
@@ -77,6 +92,14 @@ SASS
 * [Texte] [CSS Architecture for Multiple Websites With SASS](https://medium.com/@elad/css-architecture-for-multiple-websites-with-sass-7e923fc53f7a)
 * [Texte] [The Best Way to RTL Websites with Sass!](https://medium.com/@elad/the-best-way-to-rtl-your-website-with-sass-105e34a4298a)
 * [Texte] [Stepping away from Sass](https://cathydutton.co.uk/posts/why-i-stopped-using-sass/)
+
+SQL
+---------------------------------
+* [Texte] [Apprendre le SQL](https://sql.sh/)
+* [Texte] [7 Jointures SQL en une image](https://sql.sh/2401-sql-join-infographie)
+* [Texte] [Optimisation de la structure d’une base de données MySQL](https://sql.sh/1537-optimisation-structure-mysql)
+* [Texte] [Bonnes pratiques pour le nommage des tables et colonnes](https://sql.sh/1396-nom-table-colonne)
+* [Texte] [Aide mémoire (mémento) MySQL](https://sql.sh/919-aide-memoire-mysql)
 
 VueJS
 ---------------------------------
