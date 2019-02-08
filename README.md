@@ -1,6 +1,11 @@
 Bonnes pratiques et choses à savoir
 ===================================
 
+Apprendre à coder
+---------------------------------
+* [Texte] [Apprendre à coder correctement](https://programmation.developpez.com/tutoriel/apprendre-ecrire-meilleur-code/)
+* [Texte] [Become a better Developer, one New Tab at a time](https://30secondsofknowledge.petrovicstefan.rs/)
+
 Bash (& Linux)
 ---------------------------------
 * [Texte] [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
@@ -12,10 +17,8 @@ CSS
 * [Texte] [A Guide To CSS Support In Browsers](https://www.smashingmagazine.com/2019/02/css-browser-support/)
 * [Texte] [Gradient Borders in CSS](https://css-tricks.com/gradient-borders-in-css/)
 * [Texte] [CSS Position Sticky - How It Really Works!](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46)
-
-A look at CSS Resets in 2018 https://bitsofco.de/a-look-at-css-resets-in-2018/
-An Introduction to CSS Shapes https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/
-
+* [Texte] [A look at CSS Resets in 2018](https://bitsofco.de/a-look-at-css-resets-in-2018/)
+* [Texte] [An Introduction to CSS Shapes](https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/)
 * [Texte] [Becoming a CSS Grid Ninja!](https://medium.com/@elad/becoming-a-css-grid-ninja-f4c6db018cc1)
 * [Texte] [Animated CSS burger components](https://march08.github.io/animated-burgers/)
 * [Texte] [Table Design Patterns On The Web](https://www.smashingmagazine.com/2019/01/table-design-patterns-web/)
@@ -56,6 +59,10 @@ Hanbook, etc...
 * [Texte] [Guide des bonnes pratiques de l'informatique](https://www.ssi.gouv.fr/guide/guide-des-bonnes-pratiques-de-linformatique/)
 * [Texte] [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 * [Texte] [A selection of printable, one-page cheatsheets, generated from Markdown using Pandoc & LaTeX](https://github.com/kickstartcoding/cheatsheets)
+
+Icons
+---------------------------------
+* [Texte] [1000+ Pixel-perfect vector icons and Iconfont for your next project](https://iconscout.com/unicons)
 
 Javascript (et NodeJS)
 ---------------------------------
@@ -104,3 +111,9 @@ SQL
 VueJS
 ---------------------------------
 * [Texte] [30 Days of Vue](https://github.com/fullstackio/30-days-of-vue)
+
+WordPress
+---------------------------------
+* [Texte] [WP-CLI The command line interface for WordPress](https://wp-cli.org/fr/)
+* [Texte] [WP-CLI handbook](https://make.wordpress.org/cli/handbook/)
+* [Texte] [WP-CLI command. Extract single blog from multisite](https://github.com/trepmal/blog-extractor)
