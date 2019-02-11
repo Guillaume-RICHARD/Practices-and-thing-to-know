@@ -10,10 +10,13 @@ Bash (& Linux)
 ---------------------------------
 * [Texte] [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
 * [Texte] [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide#the-practical-linux-hardening-guide)
+* [Texte] [20 Command Line Tools to Monitor Linux Performance](https://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
 
 CSS
 ---------------------------------
 * [Texte] [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
+* [Texte] [Les bonnes pratiques en CSS](https://soosyze.com/articles/bonnes-pratiques-css)
+* [Texte] [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet)
 * [Texte] [A Guide To CSS Support In Browsers](https://www.smashingmagazine.com/2019/02/css-browser-support/)
 * [Texte] [Gradient Borders in CSS](https://css-tricks.com/gradient-borders-in-css/)
 * [Texte] [CSS Position Sticky - How It Really Works!](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46)
@@ -36,6 +39,7 @@ CSS
 
 Divers
 ---------------------------------
+* [Texte] [The digital handbook for agency people](https://fakeit.digital/)
 * [Texte] [A coding project a day for 20 days](https://medium.freecodecamp.org/a-coding-project-a-day-for-20-days-5cd4c9383f84)
 * [Texte] [SVG Filters 101](https://tympanus.net/codrops/2019/01/15/svg-filters-101/)
 * [Texte] [Writing code for your future self](https://dev.to/sunnysingh/writing-code-for-your-future-self-3da2)
@@ -63,6 +67,7 @@ Hanbook, etc...
 Icons
 ---------------------------------
 * [Texte] [1000+ Pixel-perfect vector icons and Iconfont for your next project](https://iconscout.com/unicons)
+* [Texte] [Map Icons Designer: Pack de pointeurs pour des maps](http://www.webiconset.com/map-icons/)
 
 Javascript (et NodeJS)
 ---------------------------------
@@ -70,12 +75,23 @@ Javascript (et NodeJS)
 * [Texte] [JavaScript for impatient programmers](http://exploringjs.com/impatient-js/)
 * [Texte] [Node.js • Apprendre par la pratique](https://oncletom.io/node.js/)
 * [Texte] [Data cleaning, manipulation, and wrangling in JavaScript](http://learnjsdata.com/index.html)
+* [Texte] [10 bonnes pratiques JavaScript](https://delicious-insights.com/fr/articles/dix-bonnes-pratiques-javascript/)
+* [Texte] [JavaScript - The Right Way](http://jstherightway.org/)
+* [Texte] [Guide de Style JavaScript airbnb (fr)](https://github.com/nmussy/javascript-style-guide)
+* [Texte] [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [Texte] [Delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs)
 * [Texte] [Creating and filling Arrays of arbitrary lengths in JavaScript](http://2ality.com/2018/12/creating-arrays.html)
 * [Texte] [JavaScript Tip](https://twitter.com/wesbos/status/1090624545990590465)
 * [Texte] [JavaScript iterator patterns](https://loige.co/javascript-iterator-patterns/)
 * [Texte] [Custom Cursor Effects](https://tympanus.net/codrops/2019/01/31/custom-cursor-effects/)
 
+PHP
+---------------------------------
+PHP - The Right Way
+* [Texte] [PHP - The Right Way](https://phptherightway.com)
+* [Texte] [PHP - The Right Way](https://eilgin.github.io/php-the-right-way/)
+* [Vidéos] [La Programmation Orientée Objet en PHP](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVDKy8ikf5Df5fnMqY-ec16)
+* [Vidéos] [Mise en pratique de la POO en PHP](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXP6JWACTxDqun0jJ5_sYvK)
 
 Python (et Data Science) 
 ---------------------------------
@@ -96,21 +112,28 @@ RGPD
 
 SASS
 ---------------------------------
+* [Texte] [Un guide de style engagé pour du code Sass sain, maintenable et extensible](https://sass-guidelin.es/fr/)
 * [Texte] [CSS Architecture for Multiple Websites With SASS](https://medium.com/@elad/css-architecture-for-multiple-websites-with-sass-7e923fc53f7a)
 * [Texte] [The Best Way to RTL Websites with Sass!](https://medium.com/@elad/the-best-way-to-rtl-your-website-with-sass-105e34a4298a)
 * [Texte] [Stepping away from Sass](https://cathydutton.co.uk/posts/why-i-stopped-using-sass/)
 
 SQL
 ---------------------------------
+* [Texte] [Introduction au SQL : Interroger et gérer des données](https://fr.khanacademy.org/computing/computer-programming/sql)
 * [Texte] [Apprendre le SQL](https://sql.sh/)
 * [Texte] [7 Jointures SQL en une image](https://sql.sh/2401-sql-join-infographie)
 * [Texte] [Optimisation de la structure d’une base de données MySQL](https://sql.sh/1537-optimisation-structure-mysql)
 * [Texte] [Bonnes pratiques pour le nommage des tables et colonnes](https://sql.sh/1396-nom-table-colonne)
 * [Texte] [Aide mémoire (mémento) MySQL](https://sql.sh/919-aide-memoire-mysql)
+* [Texte] [Le SQL de A à Z - Exercices et travaux pratiques](https://sqlpro.developpez.com/Exercices/)
 
 VueJS
 ---------------------------------
 * [Texte] [30 Days of Vue](https://github.com/fullstackio/30-days-of-vue)
+
+Webpack
+---------------------------------
+* [Texte] [How to setup Webpack config](https://areknawo.com/how-to-setup-webpack-config/)
 
 WordPress
 ---------------------------------
