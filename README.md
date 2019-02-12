@@ -5,9 +5,12 @@ Apprendre à coder
 ---------------------------------
 * [Texte] [Apprendre à coder correctement](https://programmation.developpez.com/tutoriel/apprendre-ecrire-meilleur-code/)
 * [Texte] [Become a better Developer, one New Tab at a time](https://30secondsofknowledge.petrovicstefan.rs/)
+* [Texte] [30 seconds of interviews](https://30secondsofinterviews.org/)
+* [Texte] [Make your first open source contribution in 5 minutes](https://firstcontributions.github.io/)
 
 Bash (& Linux)
 ---------------------------------
+* [Texte] [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server#how-to-secure-a-linux-server)
 * [Texte] [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
 * [Texte] [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide#the-practical-linux-hardening-guide)
 * [Texte] [20 Command Line Tools to Monitor Linux Performance](https://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
@@ -16,6 +19,7 @@ CSS
 ---------------------------------
 * [Texte] [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
 * [Texte] [Les bonnes pratiques en CSS](https://soosyze.com/articles/bonnes-pratiques-css)
+* [Texte] [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 * [Texte] [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet)
 * [Texte] [A Guide To CSS Support In Browsers](https://www.smashingmagazine.com/2019/02/css-browser-support/)
 * [Texte] [Gradient Borders in CSS](https://css-tricks.com/gradient-borders-in-css/)
@@ -76,6 +80,7 @@ Javascript (et NodeJS)
 * [Texte] [Node.js • Apprendre par la pratique](https://oncletom.io/node.js/)
 * [Texte] [Data cleaning, manipulation, and wrangling in JavaScript](http://learnjsdata.com/index.html)
 * [Texte] [10 bonnes pratiques JavaScript](https://delicious-insights.com/fr/articles/dix-bonnes-pratiques-javascript/)
+* [Texte] [Curated collection of useful JavaScript snippets that you can understand in 30 seconds](https://30secondsofcode.org/)
 * [Texte] [JavaScript - The Right Way](http://jstherightway.org/)
 * [Texte] [Guide de Style JavaScript airbnb (fr)](https://github.com/nmussy/javascript-style-guide)
 * [Texte] [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
@@ -87,9 +92,10 @@ Javascript (et NodeJS)
 
 PHP
 ---------------------------------
-PHP - The Right Way
 * [Texte] [PHP - The Right Way](https://phptherightway.com)
 * [Texte] [PHP - The Right Way](https://eilgin.github.io/php-the-right-way/)
+* [Texte] [Awesome PHP](https://github.com/ziadoz/awesome-php)
+* [Texte] [A curated collection of useful PHP snippets that you can understand in 30 seconds](https://github.com/appzcoder/30-seconds-of-php-code)
 * [Vidéos] [La Programmation Orientée Objet en PHP](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVDKy8ikf5Df5fnMqY-ec16)
 * [Vidéos] [Mise en pratique de la POO en PHP](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXP6JWACTxDqun0jJ5_sYvK)
 
