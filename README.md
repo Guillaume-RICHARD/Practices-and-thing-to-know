@@ -84,6 +84,7 @@ Javascript (et NodeJS)
 * [Texte] [JavaScript - The Right Way](http://jstherightway.org/)
 * [Texte] [Guide de Style JavaScript airbnb (fr)](https://github.com/nmussy/javascript-style-guide)
 * [Texte] [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+* [Texte] [ES6 Arrow Functions Cheatsheet](https://dev.to//samanthaming/es6-arrow-functions-cheatsheet-1cn)
 * [Texte] [Delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs)
 * [Texte] [Creating and filling Arrays of arbitrary lengths in JavaScript](http://2ality.com/2018/12/creating-arrays.html)
 * [Texte] [JavaScript Tip](https://twitter.com/wesbos/status/1090624545990590465)
@@ -102,6 +103,7 @@ PHP
 Python (et Data Science) 
 ---------------------------------
 * [Texte] [Tutoriel Python](https://docs.python.org/fr/3.5/tutorial/)
+* [Texte] [Python Best Practices Guidebook](https://github.com/realpython/python-guide#hitchhikers-guide-to-python)
 * [Texte] [List of Data Science Cheatsheets to rule the world](https://github.com/FavioVazquez/ds-cheatsheets)
 * [Texte] [Guide: la bibliothèque Numpy](https://moncoachdata.com/blog/guide-numpy/)
 
@@ -135,6 +137,12 @@ SQL
 
 VueJS
 ---------------------------------
+* [Texte] [The Progressive JavaScript Framework](https://fr.vuejs.org/index.html)
+* [Texte] [Standard Tooling for Vue.js Development](https://cli.vuejs.org/)
+* [Texte] [Vue.js App Performance Optimization: part 1](https://itnext.io/vue-js-app-performance-optimization-part-1-introduction-to-performance-optimization-and-lazy-29e4ff101019)
+* [Texte] [VueJs best practices](https://blog.usejournal.com/vue-js-best-practices-c5da8d7af48d)
+* [Texte] [GraphQL (with React, Angular, Vue and Node) bootcamp](https://tylermcginnis.com/free-graphql-bootcamp/)
+* [Texte] [Vue.js + GSAP = Animations](https://blog.usejournal.com/vue-js-gsap-animations-26fc6b1c3c5a)
 * [Texte] [30 Days of Vue](https://github.com/fullstackio/30-days-of-vue)
 
 Webpack
