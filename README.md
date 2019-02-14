@@ -7,11 +7,13 @@ Apprendre à coder
 * [Texte] [Become a better Developer, one New Tab at a time](https://30secondsofknowledge.petrovicstefan.rs/)
 * [Texte] [30 seconds of interviews](https://30secondsofinterviews.org/)
 * [Texte] [Make your first open source contribution in 5 minutes](https://firstcontributions.github.io/)
+* [Texte] [Un guide pratique pour réaliser sa première contribution au monde de l'open source](https://github.com/firstcontributions/first-contributions)
 
 Bash (& Linux)
 ---------------------------------
 * [Texte] [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server#how-to-secure-a-linux-server)
 * [Texte] [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
+* [Texte] [Comment sécuriser un serveur Linux](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server#how-to-secure-a-linux-server)
 * [Texte] [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide#the-practical-linux-hardening-guide)
 * [Texte] [20 Command Line Tools to Monitor Linux Performance](https://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
 
@@ -41,6 +43,13 @@ CSS
 * [Texte] [Destyle.css](https://nicolas-cusan.github.io/destyle.css/)
 * [Texte] [CSS Grid: Train Ticket](https://codepen.io/oliviale/full/MZZYyO)
 
+Design (& Icons)
+---------------------------------
+* [Texte] [Une collection de ressources pour apprendre le design et ses différentes spécialités](https://www.lapa.ninja/learn/)
+* [Texte] [Un guide complet sur du Lazy loading d'images](https://dev.to/rnanwani/lazy-loading-images---the-complete-guide-2665)
+* [Texte] [1000+ Pixel-perfect vector icons and Iconfont for your next project](https://iconscout.com/unicons)
+* [Texte] [Map Icons Designer: Pack de pointeurs pour des maps](http://www.webiconset.com/map-icons/)
+
 Divers
 ---------------------------------
 * [Texte] [The digital handbook for agency people](https://fakeit.digital/)
@@ -55,6 +64,7 @@ Git
 * [Vidéo] [Présentation Git par Christophe Porteneuve au meetup GitHub](https://youtu.be/HHE19hKsrW4)
 * [Vidéo] [Git ProTips : Faire plus vite et mieux grâce à cette séléction d'astuces](https://youtu.be/ypR-rEBCoag)
 * [Texte] [Comment j'utilise Git ? Astuces et bonnes pratiques !](https://guillaumebriday.fr/comment-jutilise-git-mes-astuces-et-bonnes-pratiques)
+* [Texte] [Un guide sur la bonne rédaction d'un message de commit](https://chris.beams.io/posts/git-commit/)
 
 GraphQL
 ---------------------------------
@@ -67,11 +77,8 @@ Hanbook, etc...
 * [Texte] [Guide des bonnes pratiques de l'informatique](https://www.ssi.gouv.fr/guide/guide-des-bonnes-pratiques-de-linformatique/)
 * [Texte] [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 * [Texte] [A selection of printable, one-page cheatsheets, generated from Markdown using Pandoc & LaTeX](https://github.com/kickstartcoding/cheatsheets)
-
-Icons
----------------------------------
-* [Texte] [1000+ Pixel-perfect vector icons and Iconfont for your next project](https://iconscout.com/unicons)
-* [Texte] [Map Icons Designer: Pack de pointeurs pour des maps](http://www.webiconset.com/map-icons/)
+* [Texte] [Un guide qui passe en revue les bonnes pratiques à appliquer dans son API](https://medium.com/pixelpoint/oh-man-look-at-your-api-22f330ab80d5)
+* [Texte] [Le Front End Developer Handbook édition 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 
 Javascript (et NodeJS)
 ---------------------------------
@@ -80,6 +87,9 @@ Javascript (et NodeJS)
 * [Texte] [Node.js • Apprendre par la pratique](https://oncletom.io/node.js/)
 * [Texte] [Data cleaning, manipulation, and wrangling in JavaScript](http://learnjsdata.com/index.html)
 * [Texte] [10 bonnes pratiques JavaScript](https://delicious-insights.com/fr/articles/dix-bonnes-pratiques-javascript/)
+* [Texte] [Un guide Javascript complet pour apprendre 80% du langage en 20% de votre temps](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
+* [Texte] [Un guide complet et clair sur les scopes, contextes d'éxecution et closures Javascript](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
+* [Texte] [Développer avec plus de clarté pour un code plus lisible en orienté objet](https://alistapart.com/article/coding-with-clarity-part-ii)
 * [Texte] [Curated collection of useful JavaScript snippets that you can understand in 30 seconds](https://30secondsofcode.org/)
 * [Texte] [JavaScript - The Right Way](http://jstherightway.org/)
 * [Texte] [Guide de Style JavaScript airbnb (fr)](https://github.com/nmussy/javascript-style-guide)
@@ -125,6 +135,10 @@ SASS
 * [Texte] [The Best Way to RTL Websites with Sass!](https://medium.com/@elad/the-best-way-to-rtl-your-website-with-sass-105e34a4298a)
 * [Texte] [Stepping away from Sass](https://cathydutton.co.uk/posts/why-i-stopped-using-sass/)
 
+SEO
+---------------------------------
+* [Texte] [DIY SEO: A Basic 5 Step Guide That Anyone Can Follow](https://ahrefs.com/blog/diy-seo/)
+
 SQL
 ---------------------------------
 * [Texte] [Introduction au SQL : Interroger et gérer des données](https://fr.khanacademy.org/computing/computer-programming/sql)
@@ -151,6 +165,7 @@ Webpack
 
 WordPress
 ---------------------------------
+* [Texte] [Guide : comment bien référencer son site Wordpress ?](https://ahrefs.com/blog/wordpress-seo/)
 * [Texte] [WP-CLI The command line interface for WordPress](https://wp-cli.org/fr/)
 * [Texte] [WP-CLI handbook](https://make.wordpress.org/cli/handbook/)
 * [Texte] [WP-CLI command. Extract single blog from multisite](https://github.com/trepmal/blog-extractor)
