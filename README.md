@@ -20,13 +20,17 @@ Bash (& Linux)
 CSS
 ---------------------------------
 * [Texte] [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
-* [Texte] [Les bonnes pratiques en CSS](https://soosyze.com/articles/bonnes-pratiques-css)
 * [Texte] [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 * [Texte] [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet)
+* [Texte] [To Grid or to Flex ?](https://css-irl.info/to-grid-or-to-flex/)
+* [Texte] [CSS Reference](https://tympanus.net/codrops/css_reference/)
+* [Texte] [Using CSS Grid the right way](https://vgpena.github.io/using-css-grid-the-right-way/)
+* [Texte] [A look at CSS Resets in 2018](https://bitsofco.de/a-look-at-css-resets-in-2018/)
+* [Texte] [Raster Simple Grid System](https://rsms.me/raster/)
 * [Texte] [A Guide To CSS Support In Browsers](https://www.smashingmagazine.com/2019/02/css-browser-support/)
 * [Texte] [Gradient Borders in CSS](https://css-tricks.com/gradient-borders-in-css/)
 * [Texte] [CSS Position Sticky - How It Really Works!](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46)
-* [Texte] [A look at CSS Resets in 2018](https://bitsofco.de/a-look-at-css-resets-in-2018/)
+* [Texte] [Comment bien utiliser le position: sticky et résoudre les problèmes potentiels](https://uxdesign.cc/position-stuck-96c9f55d9526)
 * [Texte] [An Introduction to CSS Shapes](https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/)
 * [Texte] [Becoming a CSS Grid Ninja!](https://medium.com/@elad/becoming-a-css-grid-ninja-f4c6db018cc1)
 * [Texte] [Animated CSS burger components](https://march08.github.io/animated-burgers/)
@@ -49,6 +53,7 @@ Design (& Icons)
 * [Texte] [Un guide complet sur du Lazy loading d'images](https://dev.to/rnanwani/lazy-loading-images---the-complete-guide-2665)
 * [Texte] [1000+ Pixel-perfect vector icons and Iconfont for your next project](https://iconscout.com/unicons)
 * [Texte] [Map Icons Designer: Pack de pointeurs pour des maps](http://www.webiconset.com/map-icons/)
+* [Texte] [ICONSVG](https://iconsvg.xyz/)
 
 Divers
 ---------------------------------
@@ -69,6 +74,7 @@ Git
 GraphQL
 ---------------------------------
 * [Texte] [A Beginner’s Guide to GraphQL](https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj)
+* [Texte] [Tutoriel interactif pour apprendre à maîtriser GraphQL par étapes](https://trygql.com/)
 * [Texte] [GraphQL bootcamp](https://tylermcginnis.com/free-graphql-bootcamp/)
 
 Hanbook, etc...
@@ -153,11 +159,15 @@ VueJS
 ---------------------------------
 * [Texte] [The Progressive JavaScript Framework](https://fr.vuejs.org/index.html)
 * [Texte] [Standard Tooling for Vue.js Development](https://cli.vuejs.org/)
+* [Texte] [The Vue Handbook: a thorough introduction to Vue.js](https://medium.freecodecamp.org/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446)
 * [Texte] [Vue.js App Performance Optimization: part 1](https://itnext.io/vue-js-app-performance-optimization-part-1-introduction-to-performance-optimization-and-lazy-29e4ff101019)
 * [Texte] [VueJs best practices](https://blog.usejournal.com/vue-js-best-practices-c5da8d7af48d)
 * [Texte] [GraphQL (with React, Angular, Vue and Node) bootcamp](https://tylermcginnis.com/free-graphql-bootcamp/)
 * [Texte] [Vue.js + GSAP = Animations](https://blog.usejournal.com/vue-js-gsap-animations-26fc6b1c3c5a)
 * [Texte] [30 Days of Vue](https://github.com/fullstackio/30-days-of-vue)
+* [Texte] [Comment intégrer du code non Vue.js dans Vue.js](https://www.smashingmagazine.com/2019/02/vue-framework-third-party-javascript/) 
+* [Texte] [Using Vue.js To Create An Interactive Weather Dashboard With APIs](https://www.smashingmagazine.com/2019/02/interactive-weather-dashboard-api-vue-js/)
+* [Texte] [Building An Interactive Infographic With Vue.js](https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/)
 
 Webpack
 ---------------------------------
@@ -169,3 +179,5 @@ WordPress
 * [Texte] [WP-CLI The command line interface for WordPress](https://wp-cli.org/fr/)
 * [Texte] [WP-CLI handbook](https://make.wordpress.org/cli/handbook/)
 * [Texte] [WP-CLI command. Extract single blog from multisite](https://github.com/trepmal/blog-extractor)
+* [Texte] [Gutenberg Handbook](https://wordpress.org/gutenberg/handbook/)
+* [Texte] [Améliorer WordPress avec du code PHP moderne](https://www.smashingmagazine.com/2019/02/wordpress-modern-php/)
