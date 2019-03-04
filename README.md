@@ -53,6 +53,7 @@ Design (& Icons)
 * [Texte] [Un guide complet sur du Lazy loading d'images](https://dev.to/rnanwani/lazy-loading-images---the-complete-guide-2665)
 * [Texte] [1000+ Pixel-perfect vector icons and Iconfont for your next project](https://iconscout.com/unicons)
 * [Texte] [Map Icons Designer: Pack de pointeurs pour des maps](http://www.webiconset.com/map-icons/)
+* [Texte] [Accessible color palettes based on WCAG Guidelines](http://colorsafe.co/)
 * [Texte] [ICONSVG](https://iconsvg.xyz/)
 
 Divers
@@ -137,6 +138,7 @@ RGPD
 SASS
 ---------------------------------
 * [Texte] [Un guide de style engagé pour du code Sass sain, maintenable et extensible](https://sass-guidelin.es/fr/)
+* [Texte] [Architecture for a Sass Project](https://www.sitepoint.com/architecture-sass-project/)
 * [Texte] [CSS Architecture for Multiple Websites With SASS](https://medium.com/@elad/css-architecture-for-multiple-websites-with-sass-7e923fc53f7a)
 * [Texte] [The Best Way to RTL Websites with Sass!](https://medium.com/@elad/the-best-way-to-rtl-your-website-with-sass-105e34a4298a)
 * [Texte] [Stepping away from Sass](https://cathydutton.co.uk/posts/why-i-stopped-using-sass/)
