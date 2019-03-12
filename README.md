@@ -23,6 +23,7 @@ CSS
 * [Texte] [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 * [Texte] [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet)
 * [Texte] [To Grid or to Flex ?](https://css-irl.info/to-grid-or-to-flex/)
+* [Texte] [CSS effects Snippets](https://emilkowalski.github.io/css-effects-snippets/)
 * [Texte] [CSS Reference](https://tympanus.net/codrops/css_reference/)
 * [Texte] [Using CSS Grid the right way](https://vgpena.github.io/using-css-grid-the-right-way/)
 * [Texte] [A look at CSS Resets in 2018](https://bitsofco.de/a-look-at-css-resets-in-2018/)
@@ -112,6 +113,11 @@ PHP
 ---------------------------------
 * [Texte] [PHP - The Right Way](https://phptherightway.com)
 * [Texte] [PHP - The Right Way](https://eilgin.github.io/php-the-right-way/)
+* [Texte] [SOLID – Single Responsibility](https://essential-dev-skills.com/solid-single-responsibility/)
+* [Texte] [SOLID – Open / Close](https://essential-dev-skills.com/solid-open-close/)
+* [Texte] [SOLID – Liskov Substitution](https://essential-dev-skills.com/solid-liskov-substitution/)
+* [Texte] [SOLID – Interface Segregation](https://essential-dev-skills.com/solid-interface-segregation/)
+* [Texte] [SOLID – Dependency Injection](https://essential-dev-skills.com/solid-dependency-injection/)
 * [Texte] [Awesome PHP](https://github.com/ziadoz/awesome-php)
 * [Texte] [A curated collection of useful PHP snippets that you can understand in 30 seconds](https://github.com/appzcoder/30-seconds-of-php-code)
 * [Vidéos] [La Programmation Orientée Objet en PHP](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVDKy8ikf5Df5fnMqY-ec16)
@@ -142,6 +148,7 @@ SASS
 * [Texte] [CSS Architecture for Multiple Websites With SASS](https://medium.com/@elad/css-architecture-for-multiple-websites-with-sass-7e923fc53f7a)
 * [Texte] [The Best Way to RTL Websites with Sass!](https://medium.com/@elad/the-best-way-to-rtl-your-website-with-sass-105e34a4298a)
 * [Texte] [Stepping away from Sass](https://cathydutton.co.uk/posts/why-i-stopped-using-sass/)
+* [Texte] [Une cheatsheet SCSS](https://dev.to/finallynero/scss-cheatsheet-7g6)
 
 SEO
 ---------------------------------
@@ -183,3 +190,6 @@ WordPress
 * [Texte] [WP-CLI command. Extract single blog from multisite](https://github.com/trepmal/blog-extractor)
 * [Texte] [Gutenberg Handbook](https://wordpress.org/gutenberg/handbook/)
 * [Texte] [Améliorer WordPress avec du code PHP moderne](https://www.smashingmagazine.com/2019/02/wordpress-modern-php/)
+* [Texte] [Plugin handbook](https://developer.wordpress.org/plugins/)
+* [Texte] [Créer plugins WP](https://openclassrooms.com/fr/courses/1891206-propulsez-votre-site-avec-wordpress/1892319-creer-des-plugins)
+* [Texte] [PHP coding standard](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/)
