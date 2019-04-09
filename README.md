@@ -5,6 +5,7 @@ Apprendre à coder
 ---------------------------------
 * [Texte] [Apprendre à coder correctement](https://programmation.developpez.com/tutoriel/apprendre-ecrire-meilleur-code/)
 * [Texte] [Become a better Developer, one New Tab at a time](https://30secondsofknowledge.petrovicstefan.rs/)
+* [Vidéos] [CodeTalks - The best code talks around the world](https://codetalks.tv/)
 * [Texte] [30 seconds of interviews](https://30secondsofinterviews.org/)
 * [Texte] [Make your first open source contribution in 5 minutes](https://firstcontributions.github.io/)
 * [Texte] [Un guide pratique pour réaliser sa première contribution au monde de l'open source](https://github.com/firstcontributions/first-contributions)
@@ -25,6 +26,7 @@ CSS
 * [Texte] [To Grid or to Flex ?](https://css-irl.info/to-grid-or-to-flex/)
 * [Texte] [CSS effects Snippets](https://emilkowalski.github.io/css-effects-snippets/)
 * [Texte] [CSS Reference](https://tympanus.net/codrops/css_reference/)
+* [Texte] [Aligner en CSS : un guide pratique complet](https://www.smashingmagazine.com/2019/03/css-alignment/)
 * [Texte] [Using CSS Grid the right way](https://vgpena.github.io/using-css-grid-the-right-way/)
 * [Texte] [A look at CSS Resets in 2018](https://bitsofco.de/a-look-at-css-resets-in-2018/)
 * [Texte] [Raster Simple Grid System](https://rsms.me/raster/)
@@ -48,8 +50,10 @@ CSS
 * [Texte] [Destyle.css](https://nicolas-cusan.github.io/destyle.css/)
 * [Texte] [CSS Grid: Train Ticket](https://codepen.io/oliviale/full/MZZYyO)
 
-Design (& Icons)
+Design, Color & Icons
 ---------------------------------
+* [Texte] [Color accessibility](https://stephaniewalter.design/blog/color-accessibility-tools-resources-to-design-inclusive-products/)
+* [Texte] [Contrast finder](https://app.contrast-finder.org/)
 * [Texte] [Une collection de ressources pour apprendre le design et ses différentes spécialités](https://www.lapa.ninja/learn/)
 * [Texte] [Un guide complet sur du Lazy loading d'images](https://dev.to/rnanwani/lazy-loading-images---the-complete-guide-2665)
 * [Texte] [1000+ Pixel-perfect vector icons and Iconfont for your next project](https://iconscout.com/unicons)
@@ -59,10 +63,15 @@ Design (& Icons)
 
 Divers
 ---------------------------------
+* [Texte] [Création d'avatar simple](https://friendlyfaces.co/)
 * [Texte] [The digital handbook for agency people](https://fakeit.digital/)
 * [Texte] [A coding project a day for 20 days](https://medium.freecodecamp.org/a-coding-project-a-day-for-20-days-5cd4c9383f84)
 * [Texte] [SVG Filters 101](https://tympanus.net/codrops/2019/01/15/svg-filters-101/)
 * [Texte] [Writing code for your future self](https://dev.to/sunnysingh/writing-code-for-your-future-self-3da2)
+
+Gestion de projet
+---------------------------------
+* [Texte] [Une liste de 250 ressources gratuites dédiées à la gestion de projet](https://www.blogdumoderateur.com/fy-selection-ressources-gestion-projet/)
 
 Git
 ---------------------------------
@@ -109,6 +118,10 @@ Javascript (et NodeJS)
 * [Texte] [JavaScript iterator patterns](https://loige.co/javascript-iterator-patterns/)
 * [Texte] [Custom Cursor Effects](https://tympanus.net/codrops/2019/01/31/custom-cursor-effects/)
 
+Machine Learning
+---------------------------------
+* [Texte] [Une collection de ressources dédiées au Machine Learning](https://bestofml.com/)
+
 PHP
 ---------------------------------
 * [Texte] [PHP - The Right Way](https://phptherightway.com)
@@ -118,6 +131,7 @@ PHP
 * [Texte] [SOLID – Liskov Substitution](https://essential-dev-skills.com/solid-liskov-substitution/)
 * [Texte] [SOLID – Interface Segregation](https://essential-dev-skills.com/solid-interface-segregation/)
 * [Texte] [SOLID – Dependency Injection](https://essential-dev-skills.com/solid-dependency-injection/)
+* [Texte] [Déstructuration de tableaux en PHP](https://stitcher.io/blog/array-destructuring-with-list-in-php)
 * [Texte] [Awesome PHP](https://github.com/ziadoz/awesome-php)
 * [Texte] [A curated collection of useful PHP snippets that you can understand in 30 seconds](https://github.com/appzcoder/30-seconds-of-php-code)
 * [Vidéos] [La Programmation Orientée Objet en PHP](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVDKy8ikf5Df5fnMqY-ec16)
@@ -152,7 +166,12 @@ SASS
 
 SEO
 ---------------------------------
+* [Texte] [Obtenez un très bon référencement Google en 5 étapes](https://www.webrankinfo.com/dossiers/conseils/relancer-referencement)
+* [Texte] [Méthode SEO : analyse des pages actives sur 1 an](https://www.webrankinfo.com/dossiers/conseils/pages-actives-sur-1-an)
+* [Texte] [Balise meta description : les meilleurs conseils SEO !](https://www.webrankinfo.com/dossiers/conseils/balise-meta-description)
+* [Texte] [9 astuces SEO avancées basées sur les sitemaps](https://www.webrankinfo.com/dossiers/sitemaps/astuces-avancees)
 * [Texte] [DIY SEO: A Basic 5 Step Guide That Anyone Can Follow](https://ahrefs.com/blog/diy-seo/)
+* [Texte] [Du lazy loading pour des pages web plus rapides sans impact SEO](https://boris.schapira.dev/2019/03/lazy-loading-des-pages-web-plus-rapides-sans-risque-seo/)
 
 SQL
 ---------------------------------
@@ -171,6 +190,7 @@ VueJS
 * [Texte] [The Vue Handbook: a thorough introduction to Vue.js](https://medium.freecodecamp.org/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446)
 * [Texte] [Vue.js App Performance Optimization: part 1](https://itnext.io/vue-js-app-performance-optimization-part-1-introduction-to-performance-optimization-and-lazy-29e4ff101019)
 * [Texte] [VueJs best practices](https://blog.usejournal.com/vue-js-best-practices-c5da8d7af48d)
+* [Texte] [Vue.js and D3: A Chart Waiting To Happen](https://medium.com/@simonwuyts/vue-js-and-d3-a-chart-waiting-to-happen-e3ac92b00868)
 * [Texte] [GraphQL (with React, Angular, Vue and Node) bootcamp](https://tylermcginnis.com/free-graphql-bootcamp/)
 * [Texte] [Vue.js + GSAP = Animations](https://blog.usejournal.com/vue-js-gsap-animations-26fc6b1c3c5a)
 * [Texte] [30 Days of Vue](https://github.com/fullstackio/30-days-of-vue)
