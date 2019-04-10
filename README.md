@@ -54,6 +54,7 @@ Design, Color & Icons
 ---------------------------------
 * [Texte] [Color accessibility](https://stephaniewalter.design/blog/color-accessibility-tools-resources-to-design-inclusive-products/)
 * [Texte] [Contrast finder](https://app.contrast-finder.org/)
+* [Texte] [Color koala](https://colorkoala.xyz/)
 * [Texte] [Une collection de ressources pour apprendre le design et ses différentes spécialités](https://www.lapa.ninja/learn/)
 * [Texte] [Un guide complet sur du Lazy loading d'images](https://dev.to/rnanwani/lazy-loading-images---the-complete-guide-2665)
 * [Texte] [1000+ Pixel-perfect vector icons and Iconfont for your next project](https://iconscout.com/unicons)
@@ -65,6 +66,8 @@ Divers
 ---------------------------------
 * [Texte] [Création d'avatar simple](https://friendlyfaces.co/)
 * [Texte] [The digital handbook for agency people](https://fakeit.digital/)
+* [Texte] [Test de personnalité](https://www.16personalities.com/fr)
+* [Texte] [A collection of podcasts around the web](https://podcasts-repo.surge.sh/)
 * [Texte] [A coding project a day for 20 days](https://medium.freecodecamp.org/a-coding-project-a-day-for-20-days-5cd4c9383f84)
 * [Texte] [SVG Filters 101](https://tympanus.net/codrops/2019/01/15/svg-filters-101/)
 * [Texte] [Writing code for your future self](https://dev.to/sunnysingh/writing-code-for-your-future-self-3da2)
@@ -155,10 +158,11 @@ RGPD
 * [Vidéo] [Le RGPD expliqué par un développeur - Frédéric Hardy - PHP Tour Montpellier 2018](https://youtu.be/9Oe3xwK7wc0)
 * [Vidéo] [Règlement RGPD : les bonnes méthodes pour détecter et classifier les données en vue de la conformité](https://youtu.be/u5iLKpH4Zmg)
 
-SASS
+SASS/SCSS
 ---------------------------------
 * [Texte] [Un guide de style engagé pour du code Sass sain, maintenable et extensible](https://sass-guidelin.es/fr/)
 * [Texte] [Architecture for a Sass Project](https://www.sitepoint.com/architecture-sass-project/)
+* [Texte] [Using a Mixin to Take the Math out of Responsive Font Sizes | CSS-Tricks](https://css-tricks.com/using-a-mixin-to-take-the-math-out-of-responsive-font-sizes/)
 * [Texte] [CSS Architecture for Multiple Websites With SASS](https://medium.com/@elad/css-architecture-for-multiple-websites-with-sass-7e923fc53f7a)
 * [Texte] [The Best Way to RTL Websites with Sass!](https://medium.com/@elad/the-best-way-to-rtl-your-website-with-sass-105e34a4298a)
 * [Texte] [Stepping away from Sass](https://cathydutton.co.uk/posts/why-i-stopped-using-sass/)
@@ -166,6 +170,13 @@ SASS
 
 SEO
 ---------------------------------
+* [Texte] [75 idées concrètes pour améliorer votre référencement](https://www.webrankinfo.com/dossiers/techniques/idees-seo)
+* [Texte] [Les 12 types de balises meta et leur impact en référencement (SEO)](https://www.webrankinfo.com/dossiers/techniques/guide-balises-meta)
+* [Texte] [La vitesse du site, critère officiel pour le SEO mobile](https://www.webrankinfo.com/dossiers/referencement-mobile/speed-update)
+* [Texte] [Emailing : comment être conforme au RGPD ?](https://www.webrankinfo.com/dossiers/webmastering/emailing-rgpd)
+* [Texte] [La méthode Pages zombies SEO avec RM Tech](https://www.webrankinfo.com/dossiers/ranking-metrics/pages-zombies)
+* [Texte] [Audit de sitemap, pages orphelines et zombies](https://www.webrankinfo.com/dossiers/sitemaps/orphelines-zombies)
+* [Texte] [Les horreurs du SEO #seohorrorstories #horreursduseo #fails](https://www.webrankinfo.com/dossiers/conseils/horreurs-du-seo)
 * [Texte] [Obtenez un très bon référencement Google en 5 étapes](https://www.webrankinfo.com/dossiers/conseils/relancer-referencement)
 * [Texte] [Méthode SEO : analyse des pages actives sur 1 an](https://www.webrankinfo.com/dossiers/conseils/pages-actives-sur-1-an)
 * [Texte] [Balise meta description : les meilleurs conseils SEO !](https://www.webrankinfo.com/dossiers/conseils/balise-meta-description)
@@ -183,11 +194,17 @@ SQL
 * [Texte] [Aide mémoire (mémento) MySQL](https://sql.sh/919-aide-memoire-mysql)
 * [Texte] [Le SQL de A à Z - Exercices et travaux pratiques](https://sqlpro.developpez.com/Exercices/)
 
+TypeScript
+---------------------------------
+* [Texte] [TypeScript introduction - the basics](https://areknawo.com/typescript-introduction/)
+* [Texte] [TypeScript Types for Beginners — Get Started with TypeScript](https://levelup.gitconnected.com/essential-typescript-types-get-started-with-typescript-5e20a5106c90)
+
 VueJS
 ---------------------------------
 * [Texte] [The Progressive JavaScript Framework](https://fr.vuejs.org/index.html)
 * [Texte] [Standard Tooling for Vue.js Development](https://cli.vuejs.org/)
 * [Texte] [The Vue Handbook: a thorough introduction to Vue.js](https://medium.freecodecamp.org/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446)
+* [Texte] [A Complete Beginner's Guide to Vue](https://dev.to/aspittel/a-complete-beginners-guide-to-vue-422n)
 * [Texte] [Vue.js App Performance Optimization: part 1](https://itnext.io/vue-js-app-performance-optimization-part-1-introduction-to-performance-optimization-and-lazy-29e4ff101019)
 * [Texte] [VueJs best practices](https://blog.usejournal.com/vue-js-best-practices-c5da8d7af48d)
 * [Texte] [Vue.js and D3: A Chart Waiting To Happen](https://medium.com/@simonwuyts/vue-js-and-d3-a-chart-waiting-to-happen-e3ac92b00868)
@@ -213,3 +230,4 @@ WordPress
 * [Texte] [Plugin handbook](https://developer.wordpress.org/plugins/)
 * [Texte] [Créer plugins WP](https://openclassrooms.com/fr/courses/1891206-propulsez-votre-site-avec-wordpress/1892319-creer-des-plugins)
 * [Texte] [PHP coding standard](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/)
+* [Texte] [How not to be depressed when working with WordPress](https://devops-life.com/blog/2019/04/10/state-of-wordpress-in-2019/)
