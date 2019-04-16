@@ -40,15 +40,17 @@ CSS
 * [Texte] [Table Design Patterns On The Web](https://www.smashingmagazine.com/2019/01/table-design-patterns-web/)
 * [Texte+Vidéo] [Tableaux responsive](https://www.grafikart.fr/tutoriels/table-responsive-1015)
 * [Texte] [Flexbox Case Studies](https://flexbox.ninja/)
+* [Texte] [CSS Grid Experiments](https://codepen.io/collection/DQvYpQ/#)
+* [Texte] [CSS Grid: Style Guide](https://codepen.io/oliviale/full/mgWjpq)
 * [Texte] [Architecture CSS avec ITCSS & InuitCSS](https://medium.com/@KBizien/architecture-css-avec-itcss-inuitcss-6b4271cb1042)
 * [Texte] [An Introduction and Guide to the CSS Object Model (CSSOM)](https://css-tricks.com/an-introduction-and-guide-to-the-css-object-model-cssom/)
 * [Texte] [Animating CSS Grid](https://css-irl.info/animating-css-grid/)
 * [Texte] [CSS Grid for Designers](https://open.nytimes.com/css-grid-for-designers-f74a883b98f5)
 * [Texte] [When And How To Use CSS Multi-Column Layout](https://www.smashingmagazine.com/2019/01/css-multiple-column-layout-multicol/)
+* [Texte] [CSS masonry with flexbox, :nth-child(), and order](https://tobiasahlin.com/blog/masonry-with-css/)
 * [Texte] [Approaches for a CSS Masonry Layout](https://css-tricks.com/piecing-together-approaches-for-a-css-masonry-layout/)
 * [Texte] [Why we need CSS subgrid](https://dev.to/kenbellows/why-we-need-css-subgrid-53mh)
 * [Texte] [Destyle.css](https://nicolas-cusan.github.io/destyle.css/)
-* [Texte] [CSS Grid: Train Ticket](https://codepen.io/oliviale/full/MZZYyO)
 
 Design, Color & Icons
 ---------------------------------
@@ -98,7 +100,7 @@ Hanbook, etc...
 * [Texte] [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 * [Texte] [A selection of printable, one-page cheatsheets, generated from Markdown using Pandoc & LaTeX](https://github.com/kickstartcoding/cheatsheets)
 * [Texte] [Un guide qui passe en revue les bonnes pratiques à appliquer dans son API](https://medium.com/pixelpoint/oh-man-look-at-your-api-22f330ab80d5)
-* [Texte] [Le Front End Developer Handbook édition 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
+* [Texte] [Le Front End Developer Handbook édition 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 
 Javascript (et NodeJS)
 ---------------------------------
@@ -146,6 +148,10 @@ Python (et Data Science)
 * [Texte] [Python Best Practices Guidebook](https://github.com/realpython/python-guide#hitchhikers-guide-to-python)
 * [Texte] [List of Data Science Cheatsheets to rule the world](https://github.com/FavioVazquez/ds-cheatsheets)
 * [Texte] [Guide: la bibliothèque Numpy](https://moncoachdata.com/blog/guide-numpy/)
+
+React
+---------------------------------
+* [Texte] [React hooks cheatsheet with live editable examples](https://react-hooks-cheatsheet.com/)
 
 RGPD
 ---------------------------------
