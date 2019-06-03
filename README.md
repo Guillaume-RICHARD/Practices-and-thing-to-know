@@ -1,6 +1,12 @@
 Bonnes pratiques et choses à savoir
 ===================================
 
+Angular 8
+---------------------------------
+* [Texte] [La version 8.0.0 du framework Angular est publiée](https://web.developpez.com/actu/263564/La-version-8-0-0-du-framework-Angular-est-publiee-une-version-majeure-qui-ameliore-le-temps-de-demarrage-des-applications/)
+* [Texte] [What’s new in Angular CLI 8.0 ?](https://blog.ninja-squad.com/2019/05/29/angular-cli-8.0/)
+* [Texte] [Become a ninja with Angular](https://books.ninja-squad.com/angular)
+
 Apprendre à coder
 ---------------------------------
 * [Texte] [Apprendre à coder correctement](https://programmation.developpez.com/tutoriel/apprendre-ecrire-meilleur-code/)
